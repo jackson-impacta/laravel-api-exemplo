@@ -10,7 +10,7 @@ O que testar em uma API de Rest??
 
 **Links:**
 
-https://sensedia.com/apis/realizacao-de-testes-em-api-rest/
-https://www.testim.io/blog/unit-test-rest-api/
-https://www.sisense.com/blog/rest-api-testing-strategy-what-exactly-should-you-test/
-https://medium.com/better-programming/how-to-write-unit-test-for-your-rest-api-f8f71376273f
+- https://sensedia.com/apis/realizacao-de-testes-em-api-rest/
+- https://www.testim.io/blog/unit-test-rest-api/
+- https://www.sisense.com/blog/rest-api-testing-strategy-what-exactly-should-you-test/
+- https://medium.com/better-programming/how-to-write-unit-test-for-your-rest-api-f8f71376273f
