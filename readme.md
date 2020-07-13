@@ -1,13 +1,16 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-## About
+## Sobre
 
 Integração do Laravel com o Circle CI
 
+## O que testar? - Api REST
+
+O que testar em uma API de Rest??
+
+**Links:**
+
+https://sensedia.com/apis/realizacao-de-testes-em-api-rest/
+https://www.testim.io/blog/unit-test-rest-api/
+https://www.sisense.com/blog/rest-api-testing-strategy-what-exactly-should-you-test/
+https://medium.com/better-programming/how-to-write-unit-test-for-your-rest-api-f8f71376273f
